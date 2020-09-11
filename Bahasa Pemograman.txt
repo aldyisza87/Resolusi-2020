@@ -3,3 +3,4 @@ Bahasa yang harus di kuasai di 2020
   
   >> Android Developer <<
         - Kotlin -
+        - Flutter -
